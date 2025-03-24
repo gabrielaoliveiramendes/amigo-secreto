@@ -63,5 +63,3 @@ function reiniciar(){
     document.getElementById("lista-amigos").innerHTML = "";
     document.getElementById("lista-sorteio").innerHTML = "";
 }
-
-//sortear apenas quando tiver mais de quatro nomes (alert: insina, no mínimo, quatro nomes)
